@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Dublin Recycle</string>
+    <string name="what_to_recycle_title">What to recycle</string>
+    <string name="what_to_recycle_desc">Recycling turns our waste materials into new useful products. This reduces the use of finite raw materials, saves energy and helps control air, water and land pollution.
+        Recycling is a group effort. We all have our part to play to not only recycle as much waste as possible but to also make sure our recycling is properly sorted. Recycling that includes non-recyclable items or is contaminated with food waste can end up in landfill.
+        It only takes a few minutes to rinse out plastic, glass and tin containers and sort our cardboard to avoid a disposal problem that will live with future generations for hundreds or even thousands of years.</string>
+    <string name="what_to_recycle">What to recycle</string>
+    <string name="food_waste_desc">Many items, such as old furniture or unwanted bikes, can be upcycled to give them a new lease of life or stripped for parts to create something completely new.  Those items too big for your regular waste collection service, such as furniture, mattresses and old fitness and play equipment, can be taken away for recycling by special arrangement. Contact your local authority as they may have a bulky goods collection in place for a fee and never use the services of an unauthorised collector \"Man in the Van\" as this means that the items will more than likely end up being dumped somewhere ruining our beautiful countryside.</string>
+    <string name="food_waste_title">You may have fallen out of love with your old sofa but somewhere there’s a home for it.</string>
+    <string name="url_1">https://www.youtube.com/watch?v=txemRfWVMpg</string>
+    <string name="why_not_try_upcycling">Why not try upcycling</string>
+    <string name="search_button">Search</string>
+    <string name="update_database">Update Database</string>
+    <string name="search_result">Search Result</string>
+    <string name="air_temp_label">Air Temperature</string>
+    <string name="device_temp_label">Device Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="url_2">https://www.youtube.com/watch?v=XzxheG6s3HQ</string>
+
+    <string-array name="months">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>BALLYFERMOT</item>
+        <item>COLLINS AVENUE</item>
+        <item>COOLOCK</item>
+        <item>EAMONN CEANT</item>
+        <item>GRANGE GORMAN</item>
+        <item>MARLBOROUGH LANE</item>
+        <item>ORWELL ROAD</item>
+        <item>RATHMINES</item>
+        <item>WINDMILL ROAD</item>
+    </string-array>
+
+</resources>
